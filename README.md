@@ -15,6 +15,9 @@
   <img align= "center" alt= "word" src= "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img align= "center" alt= "excel" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogotorres13)](https://github.com/anuraghazra/github-readme-stats)->
 
 ## Objetivo Profissional:
 Busco uma oportunidade de estágio na área de Tecnologia da Informação para aplicar os conhecimentos adquiridos durante a graduação em Engenharia de Software, desenvolver habilidades técnicas e contribuir com projetos reais. Meu objetivo é crescer profissionalmente e agregar valor à equipe em que estiver inserido.
