@@ -17,7 +17,7 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogotorres13)](https://github.com/anuraghazra/github-readme-stats)->
+
 
 ## Objetivo Profissional:
 Busco uma oportunidade de estágio na área de Tecnologia da Informação para aplicar os conhecimentos adquiridos durante a graduação em Engenharia de Software, desenvolver habilidades técnicas e contribuir com projetos reais. Meu objetivo é crescer profissionalmente e agregar valor à equipe em que estiver inserido.
